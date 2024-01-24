@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/maya/maya-original.svg" alt="maya" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="ps" width="40" height="40"/>
+</p>
 <!--
 **heyhaylan/heyhaylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
